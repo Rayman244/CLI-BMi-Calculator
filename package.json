@@ -1,0 +1,22 @@
+{
+  "name": "cli-bmi-calculator",
+  "version": "1.0.0",
+  "description": "Command line BMI calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rayman244/CLI-BMi-Calculator.git"
+  },
+  "author": "Ray Hewitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rayman244/CLI-BMi-Calculator/issues"
+  },
+  "homepage": "https://github.com/Rayman244/CLI-BMi-Calculator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
